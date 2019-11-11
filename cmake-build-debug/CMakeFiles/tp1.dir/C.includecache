@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lourencogomes/Development/git/aulas/LP-RSI/tp1/main.c
+stdio.h
+-
+math.h
+-
+string.h
+-
+

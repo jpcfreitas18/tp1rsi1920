@@ -1,0 +1,3 @@
+/Users/lourencogomes/Development/git/aulas/LP-RSI/tp1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lourencogomes/Development/git/aulas/LP-RSI/tp1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lourencogomes/Development/git/aulas/LP-RSI/tp1/cmake-build-debug/CMakeFiles/tp1.dir
